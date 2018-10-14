@@ -1,0 +1,2 @@
+# This file contains list of useful Android dependencies.
+# You can simply copy and paste them in the app level gradle file in your android project.
