@@ -1,2 +1,9 @@
 # This file contains list of useful Android dependencies.
 # You can simply copy and paste them in the app level gradle file in your android project.
+
+------------------------------------------------------------------------------------------------------
+ButterKnife
+------------------------------------------------------------------------------------------------------
+implementation 'com.jakewharton:butterknife:8.8.1'
+annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+------------------------------------------------------------------------------------------------------
